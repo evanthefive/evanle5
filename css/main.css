@@ -57,12 +57,13 @@ h3{
 }
 
 h4{
+  font-size: 15;
   display: block;
   background-color: #DBDBDB;
   color: #666666;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-  padding: 25px 25px 0px 25px;
+  padding: 15px 25px 10px 25px;
   margin: 0;
   border-bottom: 2px solid #666666;
   line-height: 16px;
@@ -115,7 +116,7 @@ h6{
   background-color: #;
   color: #666666;
   font-family: 'Lato', sans-serif;
-  font-weight: bold;
+  font-weight: 900;
   padding: 5px 25px 5px 25px;
   margin: 0;
   line-height: 10px;
@@ -148,7 +149,7 @@ p{
   color: #666666;
   margin: 0;
   padding: 1px 2px 20px 85px;
-  line-height: 10px
+  line-height: 12px
 }
 
 .p1{
@@ -156,22 +157,25 @@ p{
   font-weight: normal;
   text-decoration: none;
   font-family: 'Lato', sans-serif;
-  color: #000;
+  color: #666666;
   background-color: #DBDBDB;
   padding: 20px 25px 20px 25px;
   line-height: normal;
+  line-height: 1 em;
+
 
 }
 
 .app1{
+  text-align: center;
   display: inline-block;
   background-color: #DBDBDB;
   color: #666666;
   font-family: 'Lato', sans-serif;
   font-weight: normal;
-  padding: 20px 25px 5px 25px;
+  padding: 5px 25px 15px 25px;
   margin: 0;
-  line-height: 1em;
+  line-height: 1.2em;
 }
 
 .app1prc{
